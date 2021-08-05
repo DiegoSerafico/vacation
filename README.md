@@ -25,10 +25,11 @@ An HTML website for Puerto Vallarta and things you can do there.
 
 ## License
 
-MTI
+_[MIT](https://opensource.org/licenses/MIT)_
 Copyright © 2021 Paige Tiedeman, Brad Prettyman and Diego Serafico
 
 ## Contact Information
-Paige Tiedeman paigetiedeman@gmail.com 
-Brad Prettyman brad.prettyman5@gmail.com
-Diego Serafico dseraficohernandez@gmail.com 
+
+* Paige Tiedeman paigetiedeman@gmail.com 
+* Brad Prettyman brad.prettyman5@gmail.com
+* Diego Serafico dseraficohernandez@gmail.com 
