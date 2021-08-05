@@ -2,6 +2,33 @@ body {
   background-color: rgba(0, 255, 255, 0.267);
 }
 
+h1 {
+  font-size: 60px;
+}
+
 .jumbotron {
   background-color: azure;
+}
+
+.card {
+  background-color: azure;
+  height: 350px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-body h4 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+img {
+  margin: 30px;
+  margin-left: 0px;
+  border: black solid 1px;
+  padding: 4px;
+  width: 800px;
+  height: auto;
 }
